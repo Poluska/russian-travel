@@ -1,0 +1,38 @@
+.place__paragraph {
+  grid-column: 2;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  margin: 0 0 26px 0;
+}
+
+.place__paragraph:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) and (min-width: 751px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .place__paragraph {
+    grid-column: 1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+  }
+  
+  .place__paragraph:first-child {
+    margin-top: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__paragraph {
+    margin: 0 auto 25px auto;
+    max-width: 90%;
+  }
+}
