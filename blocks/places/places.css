@@ -5,9 +5,7 @@
   margin: 92px 148px 92px 148px;
   margin-bottom: 92px;
   padding: 0;
-
 }
-
 
 @media screen and (max-width: 1115px) {
   .places {
@@ -22,6 +20,8 @@
     gap: 73px;
     max-width: 93.75%;
     margin-top: 88px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 
@@ -29,7 +29,7 @@
   .places {
     max-width: 100%;
     margin-right: 0;
-    margin-left:0;
+    margin-left: 0;
   }
 }
 
@@ -38,6 +38,5 @@
     gap: 50px;
     margin-bottom: 66px;
     margin-top: 64px;
-
   }
 }

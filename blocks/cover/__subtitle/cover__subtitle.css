@@ -9,11 +9,6 @@
   grid-column: 1;
   z-index: 1;
   justify-self: center;
-  transition: .3s ease;
-}
-
-.cover__subtitle:hover {
-  opacity: .5;
 }
 
 @media screen and (max-width: 768px) {
