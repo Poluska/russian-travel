@@ -13,14 +13,14 @@
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
-@import url(../blocks/lead/__caption/_image/lead__caption_image.css);
-@import url(../blocks/lead/__caption/_text/lead__caption_text.css);
+@import url(../blocks/lead/__caption-image/lead__caption-image.css);
+@import url(../blocks/lead/__caption-text/lead__caption-text.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_span/intro__list_span.css);
+@import url(../blocks/intro/__list-span/intro__list-span.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
@@ -44,6 +44,5 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../blocks/footer/__link/_li/footer__link_li.css);
+@import url(../blocks/footer/__link-li/footer__link_li.css);
 
-/* * { outline: 1px solid yellow; }  */
