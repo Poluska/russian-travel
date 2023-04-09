@@ -10,18 +10,13 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
-  .place__paragraph {
-    font-size: 16px;
-    line-height: 26.08px;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .place__paragraph {
     grid-column: 1;
     margin-left: 24px;
     margin-right: 24px;
+    font-size: 16px;
+    line-height: 26.08px;
   }
 
   .place__paragraph:first-child {
@@ -33,8 +28,5 @@
   .place__paragraph {
     margin: 0 auto 25px auto;
     max-width: 90%;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26.08px;
   }
 }
