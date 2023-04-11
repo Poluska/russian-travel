@@ -13,10 +13,10 @@
   margin: auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead__title {
     font-size: 13vw;
-    line-height: 100px;
+    line-height: 104%;
     max-width: 93.75%;
   }
 }
