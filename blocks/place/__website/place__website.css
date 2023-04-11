@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 708px) {
   .place__website {
     margin-left: 24px;
   }

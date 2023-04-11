@@ -10,7 +10,7 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 708px) {
   .place__paragraph {
     grid-column: 1;
     margin-left: 24px;

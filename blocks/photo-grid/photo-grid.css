@@ -15,6 +15,8 @@
   .photo-grid {
     max-width: 90%;
     gap: 14px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -22,14 +24,17 @@
   .photo-grid {
     margin-left: auto;
     margin-right: auto;
+    gap: 16px;
+    max-width: 93.752%;
   }
 }
 
 @media screen and (max-width: 320px) {
   .photo-grid {
-    margin: 0;
+    /* margin: 0; */
     gap: 12px;
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 93.8%;
   }
 }

@@ -24,10 +24,11 @@
   }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 708px) {
   .footer {
     margin-top: 64px;
     flex-direction: column;
     margin-left: 16px;
+    margin-right: 118px;
   }
 }
