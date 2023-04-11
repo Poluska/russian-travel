@@ -15,6 +15,7 @@
     font-size: 16px;
     line-height: 26.08px;
   }
+}
 
 @media screen and (max-width: 708px) {
   .place__paragraph {
